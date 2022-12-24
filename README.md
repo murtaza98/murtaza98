@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ahVlmHJzTMxygUxUou/giphy.gif" width="200"/>
   <div id="badges">
-    <a href="www.linkedin.com/in/murtaza-p">
+    <a href="https://www.linkedin.com/in/murtaza-p">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
@@ -28,7 +28,7 @@ I am a Full Stack Developer with a strong focus on backend development <img src=
 - :zap: One of my recent software projects, Reminder Bot, has gained popularity with over 10,000 active users 💙
 - :telescope: In my spare time, I can be found tinkering on my latest project or spending time with friends and family
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-murtazaP-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/murtaza-p)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-murtazaP-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/murtaza-p)
 
 ---
 
@@ -62,17 +62,3 @@ I am a Full Stack Developer with a strong focus on backend development <img src=
 Watch a snake-eating🐍 my contribution graph on Github
 ![Snake animation](https://github.com/murtaza98/murtaza98/blob/output/github-contribution-grid-snake-dark.svg)
 
-<!--
-**murtaza98/murtaza98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
