@@ -20,7 +20,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer with a strong focus on backend development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India 🇮🇳.
+I am a ~Full Stack Developer~ Problem Solver <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India 🇮🇳.
 
 - 🔧 Software developer with a love for building and creating 
 - 🚀 Currently working for Rocket.Chat on backend and third party integrations
