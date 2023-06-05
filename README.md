@@ -5,16 +5,11 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=murtaza98&style=flat-square&color=blue" alt=""/>
   <h1>
     Hello there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     I'm Murtaza, pleased to meet you!
   </h1>
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="450" height="300"/>
 </div>
 
 ---
@@ -24,9 +19,8 @@ I am a ~Full Stack Developer~ Problem Solver <img src="https://media.giphy.com/m
 
 - 🔧 Software developer with a love for building and creating 
 - 🚀 Currently working for Rocket.Chat on backend and third party integrations
-- :telescope: In my free time, I enjoy taking on new projects, both at home and in the form of software
-- :zap: One of my recent software projects, Reminder Bot, has gained popularity with over 10,000 active users 💙
-- :telescope: In my spare time, I can be found tinkering on my latest project or spending time with friends and family
+- :zap: One of my recent software projects, Reminder Bot, has gained popularity with over 25,000 active users 💙
+- :telescope: In my spare time, I enjoy taking on new projects or spending time with friends and family
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-murtazaP-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/murtaza-p)
 
@@ -53,6 +47,8 @@ I am a ~Full Stack Developer~ Problem Solver <img src="https://media.giphy.com/m
 ---
 
 ### :fire: My Stats :
+<div id="header" align="center">
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=murtaza98&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murtaza98&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -62,3 +58,6 @@ I am a ~Full Stack Developer~ Problem Solver <img src="https://media.giphy.com/m
 Watch a snake-eating🐍 my contribution graph on Github
 ![Snake animation](https://github.com/murtaza98/murtaza98/blob/output/github-contribution-grid-snake-dark.svg)
 
+
+  <img src="https://komarev.com/ghpvc/?username=murtaza98&style=flat-square&color=blue" alt=""/>
+</div> 
