@@ -18,7 +18,7 @@
 I am a ~Full Stack Developer~ Problem Solver <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India 🇮🇳.
 
 - 🔧 Software developer with a love for building and creating 
-- 🚀 Currently working for Rocket.Chat on backend and third party integrations
+- 🚀 Currently working for HackerRank on building its backend
 - :zap: One of my recent software projects, Reminder Bot, has gained popularity with over 25,000 active users 💙
 - :telescope: In my spare time, I enjoy taking on new projects or spending time with friends and family
 
